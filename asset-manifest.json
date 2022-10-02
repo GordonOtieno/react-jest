@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-jest/build/static/css/main.f949e340.chunk.css",
-    "main.js": "/react-jest/build/static/js/main.f23b5995.chunk.js",
-    "main.js.map": "/react-jest/build/static/js/main.f23b5995.chunk.js.map",
-    "runtime-main.js": "/react-jest/build/static/js/runtime-main.6f310cf8.js",
-    "runtime-main.js.map": "/react-jest/build/static/js/runtime-main.6f310cf8.js.map",
-    "static/js/2.66cfeb96.chunk.js": "/react-jest/build/static/js/2.66cfeb96.chunk.js",
-    "static/js/2.66cfeb96.chunk.js.map": "/react-jest/build/static/js/2.66cfeb96.chunk.js.map",
-    "static/js/3.6e9a488d.chunk.js": "/react-jest/build/static/js/3.6e9a488d.chunk.js",
-    "static/js/3.6e9a488d.chunk.js.map": "/react-jest/build/static/js/3.6e9a488d.chunk.js.map",
-    "index.html": "/react-jest/build/index.html",
-    "static/css/main.f949e340.chunk.css.map": "/react-jest/build/static/css/main.f949e340.chunk.css.map",
-    "static/js/2.66cfeb96.chunk.js.LICENSE.txt": "/react-jest/build/static/js/2.66cfeb96.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-jest/build/static/media/logo.6ce24c58.svg",
-    "static/media/Banner.css": "/react-jest/build/static/media/mountain.0dfa1736.jpg"
+    "main.css": "/react-jest/static/css/main.7a0a39a5.chunk.css",
+    "main.js": "/react-jest/static/js/main.f23b5995.chunk.js",
+    "main.js.map": "/react-jest/static/js/main.f23b5995.chunk.js.map",
+    "runtime-main.js": "/react-jest/static/js/runtime-main.f1d23dec.js",
+    "runtime-main.js.map": "/react-jest/static/js/runtime-main.f1d23dec.js.map",
+    "static/js/2.66cfeb96.chunk.js": "/react-jest/static/js/2.66cfeb96.chunk.js",
+    "static/js/2.66cfeb96.chunk.js.map": "/react-jest/static/js/2.66cfeb96.chunk.js.map",
+    "static/js/3.6e9a488d.chunk.js": "/react-jest/static/js/3.6e9a488d.chunk.js",
+    "static/js/3.6e9a488d.chunk.js.map": "/react-jest/static/js/3.6e9a488d.chunk.js.map",
+    "index.html": "/react-jest/index.html",
+    "static/css/main.7a0a39a5.chunk.css.map": "/react-jest/static/css/main.7a0a39a5.chunk.css.map",
+    "static/js/2.66cfeb96.chunk.js.LICENSE.txt": "/react-jest/static/js/2.66cfeb96.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-jest/static/media/logo.6ce24c58.svg",
+    "static/media/Banner.css": "/react-jest/static/media/mountain.0dfa1736.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f310cf8.js",
+    "static/js/runtime-main.f1d23dec.js",
     "static/js/2.66cfeb96.chunk.js",
-    "static/css/main.f949e340.chunk.css",
+    "static/css/main.7a0a39a5.chunk.css",
     "static/js/main.f23b5995.chunk.js"
   ]
 }
